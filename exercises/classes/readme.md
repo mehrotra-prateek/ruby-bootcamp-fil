@@ -14,7 +14,7 @@ In order to write better Ruby we need to write code that's well encapsulated.
 
 ## Exercise
 
-Extract your previous code into classes to encapsulate the functionality defined in [String Gymnastics 2](../exercise-6/strings_gymastics_2.rb).
+Extract your previous code into classes to encapsulate the functionality defined in [String Gymnastics 2](../strings-2/string-gymnastics-2.rb).
 
 The last line of your script should read something like the following:
 
