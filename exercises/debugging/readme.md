@@ -25,14 +25,11 @@ Using the `pry-debug` in [`debug_me.rb`](debug_me.rb)
 
 * Find out what order the people have been shuffled into before they are printed to screen
 * Look inside one of the objects representing John, David or Matz. Can you find the attribute that holds the data? 
-* What’s table
-* What’s the class of that object? OpenStruct
+* What’s the name of it?
+* What’s the class of that object?
 
-```
 Please find below the process to debug and answers to above question
 [answer_task1](debug_task1.gif)
-```
-
 
 ### Task 2
 
