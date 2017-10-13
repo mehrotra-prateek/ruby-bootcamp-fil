@@ -29,7 +29,7 @@ Using the `pry-debug` in [`debug_me.rb`](debug_me.rb)
 * What’s the class of that object?
 
 Please find below the process to debug and answers to above question
-[answer_task1](debug_task1.gif)
+![answer_task1](debug_task1.gif)
 
 ### Task 2
 
