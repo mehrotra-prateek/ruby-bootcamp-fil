@@ -35,7 +35,8 @@ Please find below the process to debug and answers to above question
 
 Find three methods within `pry` and share them with fellow candidates. Find useful use cases for your findings.
 ```
-- cd 
-- methods
-- to_yaml
+- ls: Show the list of vars and methods in the current scope
+- cd: change scope
+- methods: list all methods in current scope
+- to_yaml: list attributes in yaml format for an object
 ```
