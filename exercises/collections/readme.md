@@ -24,3 +24,15 @@ puts "The price of the shopping list is: £pounds.pence."
 ## Extension
 
 Find three methods on `Hash` and `Array` and share them with fellow candidates. Find useful use cases for your findings.
+
+### Answer
+
+Some useful methods for array are 
+`Array.new` - creates an array
+`Array.size` - find size of array
+`<<` - push the element at the end of array
+
+Some useful methods for has are
+`Hash.include(key)` - checks if a key exists in a hash
+`Hash.fetch(key)` - fetches the value for the key in a hash. It will error if key is not found
+`Hash.flatten` - converts the hash into an array
